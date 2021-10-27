@@ -27,13 +27,7 @@ player wins, a message will show up determining the winner and ending the game.
 The Tic Tac Toe board is shown with the name of all the grids. The Alphabets A represents row 
 1, B represents row 2 and C represents row 3 of the board. The numbers corresponding to it 
 represent their respective columns. Dictionary is used to store data values in keys. The keys are 
-the grids. It is shown as:
-
-A1 | A2 | A3
----+----+---
-B1 | B2 | B3
----+----+---
-C1 | C2 | C3
+the grids.
 
 Players inputs from the dictionary keys from above. If the user puts an invalid input, “Wrong 
 Input! Please Try Again” message will show up and the user can input again. The player will 
